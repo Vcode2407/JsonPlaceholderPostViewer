@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Android API Integration - JSONPlaceholder Post Viewer 
  
 ## Overview 
@@ -20,3 +21,6 @@ Android app feature integrating a RESTful API (JSONPlaceholder) using Kotlin for
 ## Testing 
 - Run unit tests: `./gradlew test` 
 - Run UI tests: `./gradlew connectedAndroidTest` 
+=======
+# JsonPlaceholderPostViewer
+>>>>>>> 39a627f5b180ee0ff32f1f981bdda65102c9bcbb

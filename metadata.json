@@ -1,0 +1,5 @@
+
+{
+  "name": "JSONPlaceholder Post Viewer",
+  "description": "A React application that fetches and displays posts from the JSONPlaceholder API. It includes features for refreshing data and handling loading/error states, styled with Tailwind CSS."
+}

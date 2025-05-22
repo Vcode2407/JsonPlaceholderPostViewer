@@ -1,12 +1,7 @@
-# Android 
-*.iml 
-.gradle 
-local.properties 
+# React 
+node_modules/ 
+dist/ 
 build/ 
-.idea/ 
-*.apk 
-*.ap_ 
-*.aab 
-# Other 
+.env 
 *.log 
-*.DS_Store 
+.DS_Store 
